@@ -61,9 +61,36 @@ section:nth-of-type(2) div:nth-of-type(5) {
 .line_3 {
   margin-top: -13px;
 }
+section:nth-of-type(2) div:nth-of-type(6),
+section:nth-of-type(2) div:nth-of-type(7),
+section:nth-of-type(2) div:nth-of-type(8) {
+  right: 8px;
+  text-align: right;
+  position: absolute;
+}
+.cm_1 {
+  margin-top: -2072px;
+}
+.cm_2 {
+  margin-top: -1138px;
+}
+.cm_3 {
+  margin-top: -41px;
+}
+.pos_1 {
+  z-index: 0;
+  margin-top: -2195px;
+  position: absolute;
+  margin-left: 505.5px;
+}
+.pos_2 {
+  margin-top: -2215px;
+  position: absolute;
+  margin-left: 562px;
+}
 .basement {
   display: grid;
-  grid-template-columns: 1fr 0.75fr 0.76fr 0.3fr 0.25fr;
+  grid-template-columns: 1fr 0.75fr 0.75fr 0.3fr 0.25fr;
   margin-top: 42px;
   margin-left: 56px;
   margin-right: 56px;
