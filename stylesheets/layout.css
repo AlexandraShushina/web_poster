@@ -77,6 +77,17 @@ section:nth-of-type(2) div:nth-of-type(8) {
 .cm_3 {
   margin-top: -41px;
 }
+section:nth-of-type(2) div:nth-of-type(9),
+section:nth-of-type(2) div:nth-of-type(10),
+section:nth-of-type(2) div:nth-of-type(11),
+section:nth-of-type(2) div:nth-of-type(12),
+section:nth-of-type(2) div:nth-of-type(13),
+section:nth-of-type(2) div:nth-of-type(14),
+section:nth-of-type(2) div:nth-of-type(15),
+section:nth-of-type(2) div:nth-of-type(16) {
+  position: absolute;
+  z-index: 0;
+}
 .pos_1 {
   z-index: 0;
   margin-top: -2195px;
@@ -84,9 +95,49 @@ section:nth-of-type(2) div:nth-of-type(8) {
   margin-left: 505.5px;
 }
 .pos_2 {
+  z-index: 0;
+  margin-top: -1904px;
+  position: absolute;
+  margin-left: 458px;
+}
+.pos_3 {
+  z-index: 0;
+  margin-top: -1620.5px;
+  position: absolute;
+  margin-left: 353.5px;
+}
+.pos_4 {
+  z-index: 0;
+  margin-top: -1290.5px;
+  position: absolute;
+  margin-left: 338px;
+}
+.pos_5 {
+  z-index: 0;
+  margin-top: -954.5px;
+  position: absolute;
+  margin-left: 267px;
+}
+.pos_6 {
+  z-index: 0;
+  margin-top: -494.5px;
+  position: absolute;
+  margin-left: 67px;
+}
+.toy_red {
   margin-top: -2215px;
   position: absolute;
   margin-left: 562px;
+}
+.squirrel {
+  margin-top: -1988px;
+  position: absolute;
+  margin-left: 609px;
+}
+.toy_blue {
+  margin-top: -1766px;
+  position: absolute;
+  margin-left: 473px;
 }
 .basement {
   display: grid;
