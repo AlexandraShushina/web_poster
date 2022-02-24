@@ -154,6 +154,16 @@ section:nth-of-type(2) div:nth-of-type(16) {
   position: absolute;
   margin-left: 390px;
 }
+.toy_red_1 {
+  margin-top: -1425px;
+  position: absolute;
+  margin-left: 770.6px;
+}
+.toy_blue_1 {
+  margin-top: -973px;
+  position: absolute;
+  margin-left: 405px;
+}
 .basement {
   display: grid;
   grid-template-columns: 1fr 0.75fr 0.75fr 0.3fr 0.25fr;
