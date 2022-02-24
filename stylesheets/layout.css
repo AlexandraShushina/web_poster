@@ -139,6 +139,21 @@ section:nth-of-type(2) div:nth-of-type(16) {
   position: absolute;
   margin-left: 473px;
 }
+.toy_green {
+  margin-top: -1457px;
+  position: absolute;
+  margin-left: 102px;
+}
+.toy_lightblue {
+  margin-top: -1489.5px;
+  position: absolute;
+  margin-left: 1060.6px;
+}
+.owl {
+  margin-top: -1492px;
+  position: absolute;
+  margin-left: 390px;
+}
 .basement {
   display: grid;
   grid-template-columns: 1fr 0.75fr 0.75fr 0.3fr 0.25fr;
