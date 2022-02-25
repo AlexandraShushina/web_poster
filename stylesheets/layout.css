@@ -1,6 +1,6 @@
 body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: 'Helvetica', sans-serif;
   margin: 0 auto;
-  background-color: black;
+  background-color: white;
   display: block;
   position: relative;
 }
@@ -59,7 +59,7 @@ section:nth-of-type(2) div:nth-of-type(5) {
   margin-top: -1115px;
 }
 .line_3 {
-  margin-top: -13px;
+  margin-top: -9px;
 }
 section:nth-of-type(2) div:nth-of-type(6),
 section:nth-of-type(2) div:nth-of-type(7),
@@ -72,10 +72,10 @@ section:nth-of-type(2) div:nth-of-type(8) {
   margin-top: -2075px;
 }
 .cm_2 {
-  margin-top: -1141px;
+  margin-top: -1145px;
 }
 .cm_3 {
-  margin-top: -41px;
+  margin-top: -39px;
 }
 .pos_1 {
   z-index: 0;
@@ -97,9 +97,9 @@ section:nth-of-type(2) div:nth-of-type(8) {
 }
 .pos_4 {
   z-index: 0;
-  margin-top: -1289.5px;
+  margin-top: -1139.5px;
   position: absolute;
-  margin-left: 338px;
+  margin-left: 264px;
 }
 .pos_5 {
   z-index: 0;
@@ -109,9 +109,9 @@ section:nth-of-type(2) div:nth-of-type(8) {
 }
 .pos_6 {
   z-index: 0;
-  margin-top: -494.5px;
+  margin-top: -489.5px;
   position: absolute;
-  margin-left: 67px;
+  margin-left: 64px;
 }
 .toy_red {
   margin-top: -2219px;
@@ -139,7 +139,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
   margin-left: 1060.6px;
 }
 .owl {
-  margin-top: -1498px;
+  margin-top: -1500px;
   position: absolute;
   margin-left: 385px;
 }
@@ -162,6 +162,38 @@ section:nth-of-type(2) div:nth-of-type(8) {
   margin-top: -1020px;
   position: absolute;
   margin-left: 595px;
+}
+.fox {
+  margin-top: -667px;
+  position: absolute;
+  margin-left: 117px;
+}
+.piece_1 {
+  z-index: 3;
+  margin-top: -2500px;
+  position: absolute;
+  margin-left: -320px;
+}
+.piece_2 {
+  z-index: 3;
+  margin-top: -2480px;
+  position: absolute;
+  margin-left: -29px;
+  transform: rotate(-180deg);
+}
+.piece_3 {
+  z-index: 3;
+  margin-top: -2520px;
+  position: absolute;
+  margin-left: 150px;
+  transform: rotate(10deg);
+}
+.piece_4 {
+  z-index: 3;
+  margin-top: -2480px;
+  position: absolute;
+  margin-left: -100px;
+  transform: rotate(-180deg);
 }
 .basement {
   display: grid;
