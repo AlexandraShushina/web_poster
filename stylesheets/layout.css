@@ -1,6 +1,6 @@
 body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: 'Helvetica', sans-serif;
   margin: 0 auto;
-  background-color: white;
+  background-color: black;
   display: block;
   position: relative;
 }
@@ -15,7 +15,7 @@ body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 h1 {
   font-weight: normal;
   font-size: 75px;
-  line-height: 106.8%;
+  line-height: 110.8%;
   color: white;
 }
 p {
@@ -25,7 +25,7 @@ p {
   color: white;
 }
 .text_1 {
-  margin-top: 37px;
+  margin-top: 26px;
 }
 section:nth-of-type(1) {
   display: inline-block;
@@ -53,10 +53,10 @@ section:nth-of-type(2) div:nth-of-type(5) {
   position: absolute;
 }
 .line_1 {
-  margin-top: -2044px;
+  margin-top: -2042px;
 }
 .line_2 {
-  margin-top: -1110px;
+  margin-top: -1115px;
 }
 .line_3 {
   margin-top: -13px;
@@ -72,7 +72,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
   margin-top: -2072px;
 }
 .cm_2 {
-  margin-top: -1138px;
+  margin-top: -1141px;
 }
 .cm_3 {
   margin-top: -41px;
@@ -150,9 +150,9 @@ section:nth-of-type(2) div:nth-of-type(16) {
   margin-left: 1060.6px;
 }
 .owl {
-  margin-top: -1492px;
+  margin-top: -1498px;
   position: absolute;
-  margin-left: 390px;
+  margin-left: 385px;
 }
 .toy_red_1 {
   margin-top: -1425px;
@@ -162,7 +162,12 @@ section:nth-of-type(2) div:nth-of-type(16) {
 .toy_blue_1 {
   margin-top: -973px;
   position: absolute;
-  margin-left: 405px;
+  margin-left: 403px;
+}
+.cone {
+  margin-top: -1019px;
+  position: absolute;
+  margin-left: 170px;
 }
 .basement {
   display: grid;
