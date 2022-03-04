@@ -2,7 +2,6 @@
 	font-family: 'Helvetica';
 	src: url('Helvetica-Regular.eot');
 	src: local('Helvetica-Regular'), local('Helvetica-Regular'),
-		url('Helvetica-Regular.woff') format('woff'),
 		url('Helvetica-Regular.ttf') format('ttf'),
 		url('Helvetica-Regular.eot?#iefix') format('embedded-opentype');
 	font-style: normal;
