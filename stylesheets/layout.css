@@ -59,7 +59,7 @@ section:nth-of-type(2) div:nth-of-type(5) {
   margin-top: -1115px;
 }
 .line_3 {
-  margin-top: -9px;
+  margin-top: -10px;
 }
 section:nth-of-type(2) div:nth-of-type(6),
 section:nth-of-type(2) div:nth-of-type(7),
@@ -91,7 +91,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
 }
 .pos_3 {
   z-index: 0;
-  margin-top: -1619.5px;
+  margin-top: -1618.5px;
   position: absolute;
   margin-left: 353.5px;
 }
@@ -99,7 +99,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
   z-index: 0;
   margin-top: -1139.5px;
   position: absolute;
-  margin-left: 264px;
+  margin-left: 263.2px;
 }
 .pos_5 {
   z-index: 0;
@@ -141,7 +141,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
 .owl {
   margin-top: -1500px;
   position: absolute;
-  margin-left: 385px;
+  margin-left: 383.55px;
 }
 .toy_red_1 {
   margin-top: -1425px;
@@ -199,7 +199,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
   z-index: 3;
   margin-top: -2480px;
   position: absolute;
-  margin-left: 800px;
+  margin-left: 780px;
   transform: rotate(-70deg);
 }
 #piece_6 {
@@ -232,23 +232,23 @@ section:nth-of-type(2) div:nth-of-type(8) {
 }
 #piece_10 {
   z-index: 3;
-  margin-top: -2205px;
+  margin-top: -2215px;
   position: absolute;
   margin-left: 180px;
   transform: rotate(20deg);
 }
 #piece_11 {
   z-index: 3;
-  margin-top: -2200px;
+  margin-top: -2230px;
   position: absolute;
-  margin-left: 450px;
+  margin-left: 460px;
   transform: rotate(190deg);
 }
 #piece_12 {
   z-index: 3;
   margin-top: -2340px;
   position: absolute;
-  margin-left: 795px;
+  margin-left: 850px;
   transform: rotate(-120deg);
 }
 #piece_13 {
@@ -274,7 +274,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
 }
 #piece_16 {
   z-index: 3;
-  margin-top: -1945px;
+  margin-top: -1965px;
   position: absolute;
   margin-left: 10px;
   transform: rotate(190deg);
