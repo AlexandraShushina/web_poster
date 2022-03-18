@@ -6,11 +6,12 @@ body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 }
 .mask {
   position: absolute;
-  clip: rect(0px, 1440px, 3100px, auto);
+  width: 1440px;
+  overflow: hidden;
 }
 .main {
   width: 1440px;
-  height: 3100px;
+  height: 3040px;
   background-color: black;
   margin: 0 auto;
   display: block;
@@ -454,7 +455,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
   z-index: 3;
   margin-top: -1180px;
   position: absolute;
-  margin-left: 1000px;
+  margin-left: 995px;
   transform: rotate(190deg);
 }
 #piece_42 {
@@ -488,7 +489,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
   z-index: 3;
   margin-top: -1080px;
   position: absolute;
-  margin-left: 500px;
+  margin-left: 490px;
   transform: rotate(-180deg);
 }
 #piece_47 {
@@ -500,9 +501,9 @@ section:nth-of-type(2) div:nth-of-type(8) {
 }
 #piece_48 {
   z-index: 3;
-  margin-top: -1150px;
+  margin-top: -1155px;
   position: absolute;
-  margin-left: 870px;
+  margin-left: 930px;
   transform: rotate(180deg);
 }
 #piece_49 {
@@ -542,7 +543,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
 }
 #piece_54 {
   z-index: 3;
-  margin-top: -940px;
+  margin-top: -945px;
   position: absolute;
   margin-left: 850px;
   transform: rotate(-120deg);
