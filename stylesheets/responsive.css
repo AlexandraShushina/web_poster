@@ -1,0 +1,41 @@
+@media all and (min-device-width: 1366px) and (max-device-width: 1440px) {
+  section:nth-of-type(1) {
+    margin-left: 15vh;
+  }
+  .main {
+    margin-left: calc((100vw - 1440px)/2);
+    position: fixed;
+  }
+  .mask {
+    position: absolute;
+    min-width: 1366px;
+    max-width: 1440px;
+    overflow: hidden;
+    height: 3100px;
+    /* margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0; */
+  }
+  .cm_1 {
+    margin-left: 95vh;
+  }
+}
+@media all and (min-device-width: 1024px) and (max-device-width: 1366px) {
+  .fir {
+    width: 86.2%;
+    height: auto;
+  }
+  .main {
+    min-width: 1024px;
+    max-width: 1366px;
+    height: 2718px;
+  }
+  .mask {
+    position: absolute;
+    min-width: 1024px;
+    max-width: 1366px;
+    overflow: hidden;
+    height: 2718px;
+    /* margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0; */
+  }
+}
