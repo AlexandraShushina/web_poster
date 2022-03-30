@@ -16,6 +16,22 @@
   .all {
     left: -30px;
   }
+  .cm_1 {
+    width: 100px;
+    left: 94%;
+  }
+  .cm_2 {
+    width: 100px;
+    left: 94%;
+  }
+  .cm_3 {
+    width: 100px;
+    left: 94%;
+  }
+  .basement {
+    width: 1260px;
+    margin-left: 6%;
+  }
 }
 @media all and (min-device-width: 1024px) and (max-device-width: 1366px) {
   section:nth-of-type(1) {
