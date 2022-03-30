@@ -63,13 +63,6 @@ section:nth-of-type(2) {
   75% {background-image: url(../images/star_change.svg);}
   80% {background-image: url(../images/star.svg);}
 }
-/* .star_change {
-  background-image: url(../images/star_change.svg);
-  z-index: 3;
-  width: 179px;
-  height: 285px;
-  margin-left: 585px;
-} */
 .fir {
   background-image: url(../images/fir.svg);
   width: 1342px;
