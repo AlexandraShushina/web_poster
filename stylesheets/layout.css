@@ -21,7 +21,7 @@ body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; 
 h1 {
   font-weight: normal;
   font-size: 75px;
-  line-height: 100%;
+  line-height: 105%;
   color: white;
 }
 p {
@@ -31,7 +31,7 @@ p {
   color: white;
 }
 .text_1 {
-  margin-top: 26px;
+  margin-top: 20px;
 }
 section:nth-of-type(1) {
   display: inline-block;
@@ -502,139 +502,139 @@ section:nth-of-type(2) div:nth-of-type(8) {
   z-index: 6;
   margin-top: -2460px;
   position: absolute;
-  margin-left: -320px;
+  right: 90%;
 }
 #piece_2 {
   z-index: 6;
   margin-top: -2460px;
   position: absolute;
-  margin-left: -29px;
+  right: 75%;
   transform: rotate(-180deg);
 }
 #piece_3 {
   z-index: 6;
   margin-top: -2490px;
   position: absolute;
-  margin-left: 180px;
+  right: 55%;
   transform: rotate(17deg);
 }
 #piece_4 {
   z-index: 6;
   margin-top: -2470px;
   position: absolute;
-  margin-left: 500px;
+  right: 40%;
   transform: rotate(-180deg);
 }
 #piece_5 {
   z-index: 6;
   margin-top: -2510px;
   position: absolute;
-  margin-left: 680px;
+  right: 20%;
   transform: rotate(190deg);
 }
 #piece_6 {
   z-index: 6;
-  margin-top: -2550px;
+  margin-top: -2500px;
   position: absolute;
-  margin-left: 870px;
+  right: -5%;
   transform: rotate(180deg);
 }
 #piece_7 {
   z-index: 6;
   margin-top: -2560px;
   position: absolute;
-  margin-left: 1160px;
-  transform: rotate(220deg);
+  right: -15%;
+  transform: rotate(150deg);
 }
 #piece_8 {
   z-index: 6;
-  margin-top: -2270px;
+  margin-top: -2183px;
   position: absolute;
-  margin-left: -280px;
+  right: 85%;
   transform: rotate(220deg);
 }
 #piece_9 {
   z-index: 6;
-  margin-top: -2240px;
+  margin-top: -2259px;
   position: absolute;
-  margin-left: -50px;
+  right: 80%;
   transform: rotate(220deg);
 }
 #piece_10 {
   z-index: 6;
   margin-top: -2220px;
   position: absolute;
-  margin-left: 180px;
+  right: 67%;
   transform: rotate(20deg);
 }
 #piece_11 {
   z-index: 6;
-  margin-top: -2250px;
+  margin-top: -2270px;
   position: absolute;
-  margin-left: 630px;
+  right: 54%;
   transform: rotate(190deg);
 }
 #piece_12 {
   z-index: 6;
-  margin-top: -2520px;
+  margin-top: -2270px;
   position: absolute;
-  margin-left: 845px;
+  right: 30%;
   transform: rotate(-120deg);
 }
 #piece_13 {
   z-index: 6;
-  margin-top: -2500px;
+  margin-top: -2290px;
   position: absolute;
-  margin-left: 1140px;
+  right: 10%;
   transform: rotate(85deg);
 }
 #piece_14 {
   z-index: 6;
-  margin-top: -2000px;
+  margin-top: -2300px;
   position: absolute;
-  margin-left: -120px;
+  right: -8%;
   transform: rotate(80deg);
 }
 #piece_15 {
   z-index: 6;
-  margin-top: -1850px;
+  margin-top: -1910px;
   position: absolute;
-  margin-left: -200px;
+  right: 85%;
   transform: rotate(220deg);
 }
 #piece_16 {
   z-index: 6;
   margin-top: -1990px;
   position: absolute;
-  margin-left: 20px;
+  right: 70%;
   transform: rotate(190deg);
 }
 #piece_17 {
   z-index: 6;
-  margin-top: -1964px;
+  margin-top: -2104px;
   position: absolute;
-  margin-left: 203px;
+  right: 55%;
   transform: rotate(-15deg);
 }
 #piece_18 {
   z-index: 6;
-  margin-top: -2075px;
+  margin-top: -2140px;
   position: absolute;
-  margin-left: 470px;
+  right: 38%;
   transform: rotate(190deg);
 }
 #piece_19 {
   z-index: 6;
-  margin-top: -1880px;
+  margin-top: -2030px;
   position: absolute;
-  margin-left: 755px;
+  right: 20%;
   transform: rotate(-70deg);
 }
 #piece_20 {
   z-index: 6;
   margin-top: -1900px;
   position: absolute;
-  margin-left: 1040px;
+  right: -5%;
   transform: rotate(45deg);
 }
 #piece_21 {
