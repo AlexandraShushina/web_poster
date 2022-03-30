@@ -793,3 +793,6 @@
     width: 20%; */
   }
 }
+@media all and (min-device-width: 414px) and (max-device-width: 767px) {
+  
+}
