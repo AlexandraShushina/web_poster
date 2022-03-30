@@ -71,6 +71,9 @@ section:nth-of-type(2) {
   margin-left: 585px;
 } */
 .fir {
+  background-image: url(../images/fir.svg);
+  width: 1342px;
+  height: 2433px;
   margin-top: -4px;
 }
 section:nth-of-type(2) div:nth-of-type(3),
@@ -81,13 +84,22 @@ section:nth-of-type(2) div:nth-of-type(5) {
   position: absolute;
 }
 .line_1 {
+  background-image: url(../images/line.svg);
+  width: 1440px;
+  height: 10px;
   margin-top: -2042px;
 }
 .line_2 {
+  background-image: url(../images/line.svg);
+  width: 1440px;
+  height: 10px;
   margin-top: -1119px;
 }
 .line_3 {
-  margin-top: -10px;
+  background-image: url(../images/line.svg);
+  width: 1440px;
+  height: 10px;
+  margin-top: -6px;
 }
 section:nth-of-type(2) div:nth-of-type(6),
 section:nth-of-type(2) div:nth-of-type(7),
@@ -376,6 +388,9 @@ section:nth-of-type(2) div:nth-of-type(8) {
   position: absolute;
   margin-left: 595px;
 }
+.all {
+  position: relative;
+}
 @keyframes color {
   0% {opacity: 100%;}
   5% {opacity: 0%;}
@@ -492,23 +507,23 @@ section:nth-of-type(2) div:nth-of-type(8) {
 }
 #piece_1 {
   z-index: 6;
-  margin-top: -2500px;
+  margin-top: -2460px;
   position: absolute;
   margin-left: -320px;
 }
 #piece_2 {
   z-index: 6;
-  margin-top: -2475px;
+  margin-top: -2460px;
   position: absolute;
   margin-left: -29px;
   transform: rotate(-180deg);
 }
 #piece_3 {
   z-index: 6;
-  margin-top: -2520px;
+  margin-top: -2490px;
   position: absolute;
-  margin-left: 150px;
-  transform: rotate(10deg);
+  margin-left: 180px;
+  transform: rotate(17deg);
 }
 #piece_4 {
   z-index: 6;
@@ -540,49 +555,49 @@ section:nth-of-type(2) div:nth-of-type(8) {
 }
 #piece_8 {
   z-index: 6;
-  margin-top: -2250px;
+  margin-top: -2270px;
   position: absolute;
-  margin-left: -300px;
+  margin-left: -280px;
   transform: rotate(220deg);
 }
 #piece_9 {
   z-index: 6;
-  margin-top: -2230px;
+  margin-top: -2240px;
   position: absolute;
   margin-left: -50px;
   transform: rotate(220deg);
 }
 #piece_10 {
   z-index: 6;
-  margin-top: -2170px;
+  margin-top: -2220px;
   position: absolute;
   margin-left: 180px;
   transform: rotate(20deg);
 }
 #piece_11 {
   z-index: 6;
-  margin-top: -2235px;
+  margin-top: -2250px;
   position: absolute;
-  margin-left: 452px;
+  margin-left: 630px;
   transform: rotate(190deg);
 }
 #piece_12 {
   z-index: 6;
-  margin-top: -2320px;
+  margin-top: -2520px;
   position: absolute;
   margin-left: 845px;
   transform: rotate(-120deg);
 }
 #piece_13 {
   z-index: 6;
-  margin-top: -2325px;
+  margin-top: -2500px;
   position: absolute;
-  margin-left: 1040px;
+  margin-left: 1140px;
   transform: rotate(85deg);
 }
 #piece_14 {
   z-index: 6;
-  margin-top: -1990px;
+  margin-top: -2000px;
   position: absolute;
   margin-left: -120px;
   transform: rotate(80deg);
@@ -596,21 +611,21 @@ section:nth-of-type(2) div:nth-of-type(8) {
 }
 #piece_16 {
   z-index: 6;
-  margin-top: -1965px;
+  margin-top: -1990px;
   position: absolute;
   margin-left: 20px;
   transform: rotate(190deg);
 }
 #piece_17 {
   z-index: 6;
-  margin-top: -1942px;
+  margin-top: -1964px;
   position: absolute;
   margin-left: 203px;
   transform: rotate(-15deg);
 }
 #piece_18 {
   z-index: 6;
-  margin-top: -1920px;
+  margin-top: -2075px;
   position: absolute;
   margin-left: 470px;
   transform: rotate(190deg);
@@ -619,7 +634,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
   z-index: 6;
   margin-top: -1880px;
   position: absolute;
-  margin-left: 770px;
+  margin-left: 755px;
   transform: rotate(-70deg);
 }
 #piece_20 {
@@ -631,23 +646,23 @@ section:nth-of-type(2) div:nth-of-type(8) {
 }
 #piece_21 {
   z-index: 6;
-  margin-top: -2120px;
+  margin-top: -2250px;
   position: absolute;
-  margin-left: 488px;
+  margin-left: 448px;
   transform: rotate(190deg);
 }
 #piece_22 {
   z-index: 6;
-  margin-top: -2030px;
+  margin-top: -2055px;
   position: absolute;
-  margin-left: 850px;
+  margin-left: 837px;
   transform: rotate(180deg);
 }
 #piece_23 {
   z-index: 6;
   margin-top: -2085px;
   position: absolute;
-  margin-left: 1110px;
+  margin-left: 1095px;
   transform: rotate(90deg);
 }
 #piece_24 {
@@ -659,22 +674,22 @@ section:nth-of-type(2) div:nth-of-type(8) {
 }
 #piece_25 {
   z-index: 6;
-  margin-top: -1650px;
+  margin-top: -1670px;
   position: absolute;
   margin-left: 110px;
   transform: rotate(50deg);
 }
 #piece_26 {
   z-index: 6;
-  margin-top: -1580px;
+  margin-top: -1592px;
   position: absolute;
   margin-left: 350px;
 }
 #piece_27 {
   z-index: 6;
-  margin-top: -1718px;
+  margin-top: -1738px;
   position: absolute;
-  margin-left: 540px;
+  margin-left: 505px;
   transform: rotate(190deg);
 }
 #piece_28 {
@@ -700,7 +715,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
 }
 #piece_31 {
   z-index: 6;
-  margin-top: -1445px;
+  margin-top: -1465px;
   position: absolute;
   margin-left: 55px;
   transform: rotate(40deg);
@@ -714,7 +729,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
 }
 #piece_33 {
   z-index: 6;
-  margin-top: -1408px;
+  margin-top: -1438px;
   position: absolute;
   margin-left: 715px;
   transform: rotate(30deg);
@@ -755,7 +770,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
   z-index: 6;
   margin-top: -1215px;
   position: absolute;
-  margin-left: 335px;
+  margin-left: 340px;
   transform: rotate(10deg);
 }
 #piece_40 {
@@ -808,7 +823,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
 }
 #piece_47 {
   z-index: 6;
-  margin-top: -1080px;
+  margin-top: -1090px;
   position: absolute;
   margin-left: 715px;
   transform: rotate(-70deg);
@@ -850,7 +865,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
 }
 #piece_53 {
   z-index: 6;
-  margin-top: -835px;
+  margin-top: -840px;
   position: absolute;
   margin-left: 460px;
   transform: rotate(190deg);
@@ -1007,7 +1022,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
 }
 #piece_76 {
   z-index: 6;
-  margin-top: 10px;
+  margin-top: 14px;
   position: absolute;
   margin-left: 355px;
   transform: rotate(180deg);
@@ -1058,6 +1073,10 @@ section:nth-of-type(2) div:nth-of-type(8) {
   margin-top: 42px;
   margin-left: 56px;
   margin-right: 56px;
+  position: relative;
+}
+.all_2 {
+  width: 100%;
   position: relative;
 }
 section:nth-of-type(3) div:nth-of-type(1) {
