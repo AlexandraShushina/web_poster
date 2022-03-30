@@ -1,3 +1,4 @@
+/* Адаптив 1366*768 */
 @media all and (min-device-width: 1366px) and (max-device-width: 1440px) {
   section:nth-of-type(1) {
     margin-left: 6%;
@@ -33,6 +34,7 @@
     margin-left: 6%;
   }
 }
+/* Адаптив 1024*768 */
 @media all and (min-device-width: 1024px) and (max-device-width: 1365px) {
   section:nth-of-type(1) {
     width: 322px;
@@ -404,7 +406,387 @@
     width: 1024px;
     margin-left: 5%;
   }
-  /* .cm_1 {
-    margin-left: 95vh;
-  } */
+}
+/* Адаптив 768*1024 */
+@media all and (min-device-width: 768px) and (max-device-width: 1023px) {
+  h1 {
+    font-size: 60px;
+  }
+  p {
+    font-size: 20px;
+  }
+  section:nth-of-type(1) {
+    margin-top: 5%;
+    margin-left: 21%;
+    width: 322px;
+  }
+  section:nth-of-type(2) {
+    margin-top: -41%;
+  }
+  section:nth-of-type(3) {
+    margin-left: 21%;
+  }
+  .basement {
+    width: 610px;
+    grid-template-columns: 1fr 2fr 0.3fr 0.1fr 0.1fr;
+    margin-top: -47%;
+  }
+  section:nth-of-type(3) div:nth-of-type(1) {
+    width: 215px;
+    height: auto;
+  }
+  section:nth-of-type(3) div:nth-of-type(1) img {
+    padding-top: 21%;
+    width: 177px;
+    height: auto;
+  }
+  section:nth-of-type(3) div:nth-of-type(2) {
+    width: 77px;
+    height: auto;
+  }
+  section:nth-of-type(3) div:nth-of-type(2) img {
+    padding-top: 52%;
+    width: 77px;
+    height: auto;
+  }
+  section:nth-of-type(3) div:nth-of-type(3) {
+    padding-top: 320%;
+    margin-left: -55px;
+  }
+  section:nth-of-type(3) div:nth-of-type(4) {
+    padding-left: 45%;
+    padding-top: 160%;
+  }
+  section:nth-of-type(3) div:nth-of-type(5) {
+    padding-top: 190%;
+    width: 80px;
+  }
+  .main {
+    width: 768px;
+    height: 2016px;
+  }
+  .mask {
+    position: absolute;
+    width: 768px;
+    overflow: hidden;
+    height: 2016px;
+    margin: auto;
+    top: 0; left: 0; bottom: 0; right: 0;
+  }
+  .all {
+    left: -120px;
+  }
+  .cm_1 {
+    width: 100px;
+    margin-top: -200.5%;
+    left: 100%;
+  }
+  .cm_2 {
+    width: 100px;
+    margin-top: -109.2%;
+    left: 100%;
+  }
+  .cm_3 {
+    width: 100px;
+    margin-top: -4.7%;
+    left: 100%;
+  }
+  .star {
+    width: 115.5px;
+    height: 184px;
+    background-size: 100%;
+    margin-left: 60.5%;
+  }
+  .fir {
+    width: 867.5px;
+    height: 1573.9px;
+    background-size: 100%;
+    margin-top: 0.1%;
+    margin-left: 4%;
+  }
+  .line_1 {
+    width: 780px;
+    height: 5px;
+    background-size: 100%;
+    margin-top: -196.5%;
+    left: 15%;
+  }
+  .line_2 {
+    width: 780px;
+    height: 5px;
+    background-size: 100%;
+    margin-top: -105%;
+    left: 15%;
+  }
+  .line_3 {
+    width: 780px;
+    height: 5px;
+    background-size: 100%;
+    margin-top: -0.5%;
+    left: 15%;
+  }
+  .toy_red {
+    width: 67.5px;
+    height: 168px;
+    background-size: 100%;
+    margin-top: -213%;
+    margin-left: 57.9%;
+  }
+  .toy_red_change {
+    width: 67.5px;
+    height: 168px;
+    background-size: 100%;
+    margin-top: -213%;
+    margin-left: 57.9%;
+  }
+  .toy_red_1 {
+    width: 67.5px;
+    height: 168.3px;
+    background-size: 100%;
+    margin-top: -136%;
+    margin-left: 79.5%;
+  }
+  .toy_red_1_change {
+    width: 67.5px;
+    height: 168.3px;
+    background-size: 100%;
+    margin-top: -136%;
+    margin-left: 79.5%;
+  }
+  .toy_blue {
+    width: 76.8px;
+    height: 153px;
+    background-size: 100%;
+    margin-top: -170.2%;
+    margin-left: 49%;
+  }
+  .toy_blue_change {
+    width: 76.8px;
+    height: 153px;
+    background-size: 100%;
+    margin-top: -170.2%;
+    margin-left: 49%;
+  }
+  .toy_blue_1 {
+    width: 76.8px;
+    height: 153px;
+    background-size: 100%;
+    margin-top: -92%;
+    margin-left: 42.7%;
+  }
+  .toy_blue_1_change {
+    width: 76.8px;
+    height: 153px;
+    background-size: 100%;
+    margin-top: -92%;
+    margin-left: 42.7%;
+  }
+  .toy_green {
+    width: 164.4px;
+    height: 214.3px;
+    background-size: 100%;
+    margin-top: -140.5%;
+    margin-left: 14%;
+  }
+  .toy_green_change {
+    width: 164.4px;
+    height: 214.3px;
+    background-size: 100%;
+    margin-top: -140.5%;
+    margin-left: 14%;
+  }
+  .toy_lightblue {
+    width: 115.3px;
+    height: 199.9px;
+    background-size: 100%;
+    margin-top: -143.6%;
+    margin-left: 106.4%;
+  }
+  .toy_lightblue_change {
+    width: 115.3px;
+    height: 199.9px;
+    background-size: 100%;
+    margin-top: -143.6%;
+    margin-left: 106.4%;
+  }
+  .cone {
+    width: 113.4px;
+    height: 256px;
+    background-size: 100%;
+    margin-top: -98%;
+    margin-left: 20.5%;
+  }
+  .cone_change {
+    width: 113.4px;
+    height: 256px;
+    background-size: 100%;
+    margin-top: -98.2%;
+    margin-left: 20.5%;
+  }
+  .sweet {
+    width: 269.9px;
+    height: 202px;
+    background-size: 100%;
+    margin-top: -97.5%;
+    margin-left: 60.8%;
+  }
+  .sweet_change {
+    width: 269.9px;
+    height: 202px;
+    background-size: 100%;
+    margin-top: -97.5%;
+    margin-left: 60.8%;
+  }
+  .garland_1 {
+    width: 314.7px;
+    height: 126.6px;
+    background-size: 100%;
+    margin-top: -211.5%;
+    margin-left: 52.7%;
+  }
+  .garland_1_change {
+    width: 314.7px;
+    height: 126.6px;
+    background-size: 100%;
+    margin-top: -211.5%;
+    margin-left: 52.7%;
+  }
+  .garland_2_change {
+    width: 290.8px;
+    height: 118.5px;
+    background-size: 100%;
+    margin-top: -183.3%;
+    margin-left: 48.1%;
+  }
+  .garland_2 {
+    width: 290.8px;
+    height: 118.5px;
+    background-size: 100%;
+    margin-top: -183.3%;
+    margin-left: 48.1%;
+  }
+  .garland_3 {
+    width: 457px;
+    height: 99.4px;
+    background-size: 100%;
+    margin-top: -156.3%;
+    margin-left: 38.3%;
+  }
+  .garland_3_change {
+    width: 457px;
+    height: 99.4px;
+    background-size: 100%;
+    margin-top: -156.3%;
+    margin-left: 38.3%;
+  }
+  .garland_4 {
+    width: 578px;
+    height: 102.5px;
+    background-size: 100%;
+    margin-top: -109.5%;
+    margin-left: 28.8%;
+  }
+  .garland_4_change {
+    width: 578px;
+    height: 102.5px;
+    background-size: 100%;
+    margin-top: -109.5%;
+    margin-left: 28.8%;
+  }
+  .garland_5 {
+    width: 600px;
+    height: 308px;
+    background-size: 100%;
+    margin-top: -92.2%;
+    margin-left: 29.8%;
+  }
+  .garland_5_change {
+    width: 600px;
+    height: 308px;
+    background-size: 100%;
+    margin-top: -92.2%;
+    margin-left: 29.8%;
+  }
+  .garland_6 {
+    width: 147.2px;
+    height: 57px;
+    background-size: 100%;
+    margin-top: -47.2%;
+    margin-left: 6.5%;
+  }
+  .garland_6_change {
+    width: 147.2px;
+    height: 57px;
+    background-size: 100%;
+    margin-top: -47.2%;
+    margin-left: 6.5%;
+  }
+  .squirrel {
+    width: 250px;
+    height: 230px;
+    background-size: 100%;
+    margin-top: -191.5%;
+    margin-left: 63.2%;
+  }
+  .owl {
+    width: 192px;
+    height: 322.2px;
+    background-size: 100%;
+    margin-top: -142.6%;
+    margin-left: 41%;
+  }
+  .fox {
+    width: 788.2px;
+    height: 430.4px;
+    background-size: 100%;
+    margin-top: -64.4%;
+    margin-left: 9.2%;
+  }
+  .triangle_1 {
+    width: 19.2px;
+    height: 15.4px;
+    background-size: 100%;
+    margin-top: -182.4%;
+    margin-left: 86.2%;
+  }
+  .triangle_2 {
+    width: 18.9px;
+    height: 14.8px;
+    background-size: 100%;
+    margin-top: -182.3%;
+    margin-left: 92%;
+  }
+  .triangle_3 {
+    width: 19px;
+    height: 15.4px;
+    background-size: 100%;
+    margin-top: -133.45%;
+    margin-left: 49.7%;
+  }
+  .triangle_4 {
+    width: 19px;
+    height: 15.4px;
+    background-size: 100%;
+    margin-top: -133.45%;
+    margin-left: 58.25%;
+  }
+  .triangle_5 {
+    width: 19.3px;
+    height: 15.4px;
+    background-size: 100%;
+    margin-top: -50.5%;
+    margin-left: 103.8%;
+  }
+  .triangle_6 {
+    width: 19.3px;
+    height: 15.4px;
+    background-size: 100%;
+    margin-top: -50.5%;
+    margin-left: 115.3%;
+  }
+  .all_2 {
+    margin-top: 54%;
+    width: 1024px;
+    margin-left: 5%;
+  }
 }
