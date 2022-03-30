@@ -33,6 +33,9 @@
     width: 1260px;
     margin-left: 6%;
   }
+  .all_2 {
+    margin-left: 3%;
+  }
 }
 /* Адаптив 1024*768 */
 @media all and (min-device-width: 1024px) and (max-device-width: 1365px) {
@@ -404,7 +407,10 @@
   .all_2 {
     margin-top: 58%;
     width: 1024px;
-    margin-left: 5%;
+    margin-left: 20%;
+  }
+  .all_2 img {
+    width: 40%;
   }
 }
 /* Адаптив 768*1024 */
@@ -785,9 +791,12 @@
     margin-left: 115.3%;
   }
   .all_2 {
-    margin-top: 156%;
+    margin-top: 155%;
     width: 1024px;
-    margin-left: 3%;
+    margin-left: 15%;
+  }
+  .all_2 img {
+    width: 30%;
   }
   /* .all_2 img {
     width: 20%; */
