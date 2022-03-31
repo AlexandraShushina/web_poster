@@ -1124,7 +1124,8 @@ section:nth-of-type(2) div:nth-of-type(8) {
 .basement {
   display: grid;
   grid-template-columns: 1fr 0.75fr 0.75fr 0.3fr 0.25fr;
-  margin-top: 42px;
+  column-gap: 3%;
+  margin-top: 55px;
   margin-left: 56px;
   margin-right: 56px;
   position: relative;
@@ -1134,16 +1135,16 @@ section:nth-of-type(2) div:nth-of-type(8) {
   position: relative;
 }
 section:nth-of-type(3) img:nth-of-type(1) {
-  padding-top: 14%;
+  padding-top: 16%;
 }
 section:nth-of-type(3) img:nth-of-type(2) {
-  padding-top: 18%;
+  padding-top: 20.5%;
 }
 section:nth-of-type(3) div:nth-of-type(1) {
-  padding-top: 54%;
+  padding-top: 62%;
 }
 section:nth-of-type(3) div:nth-of-type(2) {
-  padding-top: 139%;
+  padding-top: 155%;
 }
 .deg {
   transform: rotate(-90deg);
