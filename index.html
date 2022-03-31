@@ -284,7 +284,36 @@
     $( function() {
       $( "#piece_91" ).draggable();
     } );
-  </script>
+    $(document).ready(function(){
+      $(".sweet_change_2").click(function(){
+        if ($(".sweet_change_2").hasClass("opacity")){
+          $(".sweet_change_2").removeClass("opacity");
+          $(".promo").removeClass("opacity");
+        };
+      });
+    });
+	$( document).ready(function(){
+	  $(".squirrel").hover(function(){ // задаем функцию при наведении курсора на элемент
+      if ($(".say_1").hasClass("opacity")){
+        $(".say_1").removeClass("opacity");
+      };
+	  });
+	});
+  $( document).ready(function(){
+    $(".owl").hover(function(){ // задаем функцию при наведении курсора на элемент
+      if ($(".say_2").hasClass("opacity")){
+        $(".say_2").removeClass("opacity");
+      };
+    });
+  });
+  $( document).ready(function(){
+    $(".fox").hover(function(){ // задаем функцию при наведении курсора на элемент
+      if ($(".say_3").hasClass("opacity")){
+        $(".say_3").removeClass("opacity");
+      };
+    });
+  });
+		</script>
 </head>
 <body>
   <div class="main">
@@ -301,7 +330,6 @@
       <section>
         <!-- Звезда -->
         <div class="star"></div>
-        <!-- <div class="star_change"></div> -->
         <!-- Ель -->
         <div class="fir"></div>
         <!-- Линии -->
@@ -340,18 +368,23 @@
         <div class="cone_change"></div>
         <div class="sweet"></div>
         <div class="sweet_change"></div>
+        <div class="sweet_change_2 opacity"></div>
+        <p class="promo opacity">промокод yolka</p>
         <!-- Животные -->
         <div class="squirrel"></div>
         <div class="triangle_1"></div>
         <div class="triangle_2"></div>
+        <p class="say_1 opacity">копай глубже</p>
         <div class="owl"></div>
         <div class="triangle_3"></div>
         <div class="triangle_4"></div>
+        <p class="say_2 opacity">теплее</p>
         <div class="fox"></div>
+        <p class="say_3 opacity">нажми</br>на конфету</p>
         <div class="triangle_5"></div>
         <div class="triangle_6"></div>
         <!-- Отдельные сугробы -->
-        <div class="all_2">
+        <!-- <div class="all_2">
         <img id="piece_1" src="images/snow_1.svg" alt="">
         <img id="piece_2" src="images/snow_2.svg" alt="">
         <img id="piece_3" src="images/snow_6.svg" alt="">
@@ -443,7 +476,7 @@
         <img id="piece_89" src="images/snow_2.svg" alt="">
         <img id="piece_90" src="images/snow_6.svg" alt="">
         <img id="piece_91" src="images/snow_3.svg" alt="">
-        </div>
+        </div> -->
       </section>
       <!-- Подвал -->
       <section class="basement">
