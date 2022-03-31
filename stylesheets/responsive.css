@@ -808,49 +808,6 @@
   .text_1 {
     margin-top: 11px;
   }
-  /* section:nth-of-type(1) {
-    margin-top: 5%;
-    margin-left: 21%;
-    width: 322px;
-  }
-  section:nth-of-type(3) {
-    margin-left: 21%;
-  }
-  .basement {
-    width: 610px;
-    grid-template-columns: 1fr 2fr 0.3fr 0.1fr 0.1fr;
-    margin-top: -47%;
-  }
-  section:nth-of-type(3) div:nth-of-type(1) {
-    width: 215px;
-    height: auto;
-  }
-  section:nth-of-type(3) div:nth-of-type(1) img {
-    padding-top: 21%;
-    width: 177px;
-    height: auto;
-  }
-  section:nth-of-type(3) div:nth-of-type(2) {
-    width: 77px;
-    height: auto;
-  }
-  section:nth-of-type(3) div:nth-of-type(2) img {
-    padding-top: 52%;
-    width: 77px;
-    height: auto;
-  }
-  section:nth-of-type(3) div:nth-of-type(3) {
-    padding-top: 320%;
-    margin-left: -55px;
-  }
-  section:nth-of-type(3) div:nth-of-type(4) {
-    padding-left: 45%;
-    padding-top: 160%;
-  }
-  section:nth-of-type(3) div:nth-of-type(5) {
-    padding-top: 190%;
-    width: 80px;
-  } */
   section:nth-of-type(1) {
     margin-top: 5%;
     margin-left: 20%;
@@ -950,7 +907,7 @@
     width: 445px;
     height: 3px;
     background-size: 100%;
-    margin-top: -0.5%;
+    margin-top: -0.45%;
     left: 15%;
   }
   .toy_red {
@@ -1000,14 +957,14 @@
     height: 71.9px;
     background-size: 100%;
     margin-top: -92%;
-    margin-left: 42.7%;
+    margin-left: 42%;
   }
   .toy_blue_1_change {
     width: 36px;
     height: 71.9px;
     background-size: 100%;
     margin-top: -92%;
-    margin-left: 42.7%;
+    margin-left: 42%;
   }
   .toy_green {
     width: 77.2px;
@@ -1048,7 +1005,7 @@
     width: 53.2px;
     height: 120.2px;
     background-size: 100%;
-    margin-top: -98.2%;
+    margin-top: -98%;
     margin-left: 20.5%;
   }
   .sweet {
@@ -1125,29 +1082,29 @@
     width: 281.7px;
     height: 144.6px;
     background-size: 100%;
-    margin-top: -92.2%;
-    margin-left: 29.8%;
+    margin-top: -91.5%;
+    margin-left: 29.6%;
   }
   .garland_5_change {
     width: 281.7px;
     height: 144.6px;
     background-size: 100%;
-    margin-top: -92.2%;
-    margin-left: 29.8%;
+    margin-top: -91.5%;
+    margin-left: 29.6%;
   }
   .garland_6 {
     width: 69px;
     height: 27.2px;
     background-size: 100%;
     margin-top: -47.2%;
-    margin-left: 6.5%;
+    margin-left: 10%;
   }
   .garland_6_change {
     width: 69px;
     height: 27.2px;
     background-size: 100%;
     margin-top: -47.2%;
-    margin-left: 6.5%;
+    margin-left: 10%;
   }
   .squirrel {
     width: 117.4px;
@@ -1167,8 +1124,8 @@
     width: 370px;
     height: 202px;
     background-size: 100%;
-    margin-top: -64.4%;
-    margin-left: 9.2%;
+    margin-top: -63.9%;
+    margin-left: 9.5%;
   }
   .triangle_1 {
     width: 9px;
@@ -1188,28 +1145,28 @@
     width: 8.9px;
     height: 7.2px;
     background-size: 100%;
-    margin-top: -133.45%;
-    margin-left: 49.7%;
+    margin-top: -132.5%;
+    margin-left: 48.6%;
   }
   .triangle_4 {
     width: 8.9px;
     height: 7.2px;
     background-size: 100%;
-    margin-top: -133.45%;
-    margin-left: 58.25%;
+    margin-top: -132.5%;
+    margin-left: 57.2%;
   }
   .triangle_5 {
     width: 9px;
     height: 7.2px;
     background-size: 100%;
-    margin-top: -50.5%;
+    margin-top: -50.2%;
     margin-left: 103.8%;
   }
   .triangle_6 {
     width: 9px;
     height: 7.3px;
     background-size: 100%;
-    margin-top: -50.5%;
+    margin-top: -50.2%;
     margin-left: 115.3%;
   }
   .all_2 {
