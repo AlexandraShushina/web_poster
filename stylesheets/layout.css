@@ -390,7 +390,6 @@ section:nth-of-type(2) div:nth-of-type(8) {
   margin-top: -1010px;
   position: absolute;
   margin-left: 597px;
-  transition: all 0.2s 0.1s;
 }
 .promo {
   z-index: 7;
@@ -398,7 +397,6 @@ section:nth-of-type(2) div:nth-of-type(8) {
   margin-top: -735px;
   position: absolute;
   margin-left: 718px;
-  transition: all 0.2s 0.1s;
 }
 .opacity {
   opacity: 0;
@@ -464,7 +462,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
   margin-top: -1775px;
   position: absolute;
   margin-left: 960px;
-  transition: all 0.2s 0.5s;
+  transition: all 0.2s 0s;
 }
 .owl {
   background-image: url(../images/owl.svg);
@@ -509,7 +507,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
   margin-top: -1430px;
   position: absolute;
   margin-left: 620px;
-  transition: all 0.2s 0.5s;
+  transition: all 0.2s 0s;
 }
 .fox {
   background-image: url(../images/fox.svg);
@@ -554,7 +552,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
   margin-top: -285px;
   position: absolute;
   margin-left: 1040px;
-  transition: all 0.2s 0.5s;
+  transition: all 0.2s 0s;
 }
 #piece_1 {
   z-index: 6;
