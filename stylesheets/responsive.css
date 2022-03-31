@@ -1079,6 +1079,20 @@
     margin-top: -97.5%;
     margin-left: 60.8%;
   }
+  .sweet_change_2 {
+    background-image: url(../images/sweet_change_3.svg);
+    width: 126.6px;
+    height: 94.8px;
+    background-size: 100%;
+    margin-top: -97.5%;
+    margin-left: 60.8%;
+  }
+  .promo {
+    width: 70px;
+    line-height: 100%;
+    margin-top: -74.3%;
+    margin-left: 69.5%;
+  }
   .garland_1 {
     width: 147.7px;
     height: 59.4px;
@@ -1170,6 +1184,13 @@
     margin-top: -190%;
     margin-left: 62.5%;
   }
+  .say_1 {
+    width: 72px;
+    height: 13px;
+    border: 1px solid white;
+    margin-top: -169.5%;
+    margin-left: 96%;
+  }
   .owl {
     width: 90px;
     height: 151.2px;
@@ -1177,12 +1198,26 @@
     margin-top: -141.8%;
     margin-left: 40%;
   }
+  .say_2 {
+    width: 40px;
+    height: 13px;
+    border: 1px solid white;
+    margin-top: -137%;
+    margin-left: 64%;
+  }
   .fox {
     width: 370px;
     height: 202px;
     background-size: 100%;
     margin-top: -63.9%;
     margin-left: 9.5%;
+  }
+  .say_3 {
+    width: 63px;
+    height: 24px;
+    border: 1px solid white;
+    margin-top: -27.8%;
+    margin-left: 98.6%;
   }
   .triangle_1 {
     width: 9px;
@@ -1460,6 +1495,20 @@
     margin-top: -118%;
     margin-left: 73.5%;
   }
+  .sweet_change_2 {
+    background-image: url(../images/sweet_change_3.svg);
+    width: 126.6px;
+    height: 94.8px;
+    background-size: 100%;
+    margin-top: -118%;
+    margin-left: 73.5%;
+  }
+  .promo {
+    width: 70px;
+    line-height: 100%;
+    margin-top: -90.1%;
+    margin-left: 84%;
+  }
   .garland_1 {
     width: 147.7px;
     height: 59.4px;
@@ -1551,6 +1600,13 @@
     margin-top: -229.3%;
     margin-left: 74.5%;
   }
+  .say_1 {
+    width: 72px;
+    height: 13px;
+    border: 1px solid white;
+    margin-top: -204.5%;
+    margin-left: 116%;
+  }
   .owl {
     width: 90px;
     height: 151.1px;
@@ -1558,12 +1614,26 @@
     margin-top: -171.3%;
     margin-left: 48%;
   }
+  .say_2 {
+    width: 40px;
+    height: 13px;
+    border: 1px solid white;
+    margin-top: -166%;
+    margin-left: 77%;
+  }
   .fox {
     width: 370px;
     height: 202px;
     background-size: 100%;
     margin-top: -77%;
     margin-left: 12%;
+  }
+  .say_3 {
+    width: 63px;
+    height: 24px;
+    border: 1px solid white;
+    margin-top: -16%;
+    margin-left: 26%;
   }
   .triangle_1 {
     width: 9px;
