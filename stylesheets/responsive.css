@@ -262,6 +262,18 @@
     margin-top: -94.8%;
     margin-left: 54.8%;
   }
+  .sweet_change_2 {
+    width: 359.3px;
+    height: 269px;
+    background-size: 100%;
+    margin-top: -94.8%;
+    margin-left: 54.8%;
+  }
+  .promo {
+    font-size: 22px;
+    margin-top: -69.2%;
+    margin-left: 65.55%;
+  }
   .garland_1 {
     width: 419px;
     height: 168.5px;
@@ -348,10 +360,14 @@
   }
   .squirrel {
     width: 333px;
-    height: 307.4px;
+    height: 307px;
     background-size: 100%;
     margin-top: -184.5%;
     margin-left: 56.5%;
+  }
+  .say_1 {
+    margin-top: -164.5%;
+    margin-left: 88.7%;
   }
   .owl {
     width: 256px;
@@ -360,12 +376,20 @@
     margin-top: -137.5%;
     margin-left: 35%;
   }
+  .say_2 {
+    margin-top: -132.5%;
+    margin-left: 57.8%;
+  }
   .fox {
     width: 1049.4px;
     height: 573px;
     background-size: 100%;
     margin-top: -61.8%;
     margin-left: 4.7%;
+  }
+  .say_3 {
+    margin-top: -26.3%;
+    margin-left: 90.5%;
   }
   .triangle_1 {
     width: 25.6px;
