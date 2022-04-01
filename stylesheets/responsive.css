@@ -853,6 +853,12 @@
   .all_2 img {
     width: 30%;
   }
+  #piece_60 {
+    right: 40%;
+  }
+  #piece_50 {
+    margin-top: -955px;
+  }
 }
 /* Адаптив 414*896 */
 @media all and (min-device-width: 414px) and (max-device-width: 767px) {
