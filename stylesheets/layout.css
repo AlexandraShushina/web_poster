@@ -902,7 +902,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
   z-index: 6;
   margin-top: -1040px;
   position: absolute;
-  right: 66%;
+  right: 60%;
   transform: rotate(220deg);
 }
 #piece_52 {
@@ -1151,7 +1151,7 @@ section:nth-of-type(2) div:nth-of-type(8) {
 }
 #piece_88 {
   z-index: 6;
-  margin-top: 40px;
+  margin-top: 65px;
   position: absolute;
   right: 30%;
   transform: rotate(30deg);
