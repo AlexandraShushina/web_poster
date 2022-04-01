@@ -672,6 +672,7 @@
     background-size: 100%;
     margin-top: -97.5%;
     margin-left: 62.5%;
+    cursor: pointer;
   }
   .promo {
     width: 100px;
@@ -1092,6 +1093,7 @@
     background-size: 100%;
     margin-top: -97.5%;
     margin-left: 60.8%;
+    cursor: pointer;
   }
   .promo {
     width: 70px;
@@ -1508,6 +1510,7 @@
     background-size: 100%;
     margin-top: -118%;
     margin-left: 73.5%;
+    cursor: pointer;
   }
   .promo {
     width: 70px;
